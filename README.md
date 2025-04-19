@@ -6,6 +6,11 @@ This project presents a complete **end-to-end data science pipeline** in a Jupyt
 
 From exploratory data analysis and classical machine learning to deep learning and reinforcement learning-driven pipeline optimization - this notebook explores the full lifecycle of modern applied machine learning on structured/tabular data.
 
+**🔎 NOTE:**  
+Due to the notebook’s size and output content, GitHub may not render it correctly.  
+To view the full notebook with all visualizations and structure, use the following link:  
+👉 [View on NBViewer](https://nbviewer.org/github/achelousace/Bank-Loan-Approval/blob/main/Bank_Loan_Approval_Project.ipynb)
+* although the Notebook is Downloadable.
 ---
 
 ## 📌 Project Scope
